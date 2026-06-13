@@ -1,0 +1,254 @@
+{
+  "profile": {
+    "candidateName": "Devon Back",
+    "skills": ["Node.js", "Express", "PostgreSQL", "Docker"],
+    "projectTechnologies": ["Node.js", "Express", "PostgreSQL", "Docker", "Redis"],
+    "certificationsList": ["Backend Systems Certificate"],
+    "internships": "Backend Intern at CloudServe"
+  },
+  "predictedDomain": "backend",
+  "aptitudeQuestions": [ /* same 15 aptitude questions as in the bank */
+  {
+    "id": "apt-1",
+    "category": "Numerical Ability",
+    "difficulty": "Easy",
+    "type": "MCQ",
+    "question": "If 20% of a number is 120, then what is 120% of that number?",
+    "options": ["480", "720", "600", "360"],
+    "correctAnswer": 1,
+    "explanation": "20% = 120, so 100% = 600 and 120% = 720."
+  },
+  {
+    "id": "apt-2",
+    "category": "Logical Reasoning",
+    "difficulty": "Medium",
+    "type": "Logical",
+    "question": "If no competent candidate fails validation, which statement must be true?",
+    "options": ["If a candidate fails validation, they are not competent", "If a candidate passes, they are an expert", "Every non-competent candidate fails", "Passing is random"],
+    "correctAnswer": 0,
+    "explanation": "This is the contrapositive of the original statement."
+  },
+  {
+    "id": "apt-3",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "type": "MCQ",
+    "question": "Choose the synonym of ADAPT.",
+    "options": ["Adjust", "Reject", "Ignore", "Delay"],
+    "correctAnswer": 0,
+    "explanation": "Adapt means to adjust to new conditions."
+  },
+  {
+    "id": "apt-4",
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "The average of 3, 6, 9, 12 and 15 is:",
+    "options": ["9", "8", "10", "12"],
+    "correctAnswer": 0,
+    "explanation": "Sum is 45 and average is 45/5 = 9."
+  },
+  {
+    "id": "apt-5",
+    "category": "Logical Reasoning",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "options": ["42", "36", "40", "44"],
+    "correctAnswer": 0,
+    "explanation": "Pattern is n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6, so 6×7 = 42."
+  },
+  {
+    "id": "apt-6",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "Choose the opposite of TRANSPARENT.",
+    "options": ["Opaque", "Clear", "Visible", "Shiny"],
+    "correctAnswer": 0,
+    "explanation": "Opaque is the opposite of transparent."
+  },
+  {
+    "id": "apt-7",
+    "category": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "type": "MCQ",
+    "question": "A sum amounts to 815 in 3 years and 854 in 4 years at simple interest. Find the principal.",
+    "options": ["698", "650", "720", "780"],
+    "correctAnswer": 0,
+    "explanation": "One year interest = 39, so principal = 815 - 117 = 698."
+  },
+  {
+    "id": "apt-8",
+    "category": "Logical Reasoning",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "Which one is the odd one out?",
+    "options": ["January", "May", "July", "November"],
+    "correctAnswer": 3,
+    "explanation": "November has 30 days; the others have 31."
+  },
+  {
+    "id": "apt-9",
+    "category": "Numerical Ability",
+    "difficulty": "Easy",
+    "type": "MCQ",
+    "question": "If a person walks 600m in 5 minutes, what is the speed in km/hr?",
+    "options": ["7.2", "6.5", "8.0", "5.4"],
+    "correctAnswer": 0,
+    "explanation": "600m/300s = 2 m/s = 7.2 km/hr."
+  },
+  {
+    "id": "apt-10",
+    "category": "Logical Reasoning",
+    "difficulty": "Hard",
+    "type": "MCQ",
+    "question": "Pointing to a photo, a man says: “That man's father is my father's son.” Whose photo is it?",
+    "options": ["His son", "His father", "His brother", "His nephew"],
+    "correctAnswer": 0,
+    "explanation": "My father's son = myself, so the man is his son."
+  },
+  {
+    "id": "apt-11",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "type": "MCQ",
+    "question": "Complete the sentence: She _____ to the office every day.",
+    "options": ["goes", "go", "going", "gone"],
+    "correctAnswer": 0,
+    "explanation": "Third person singular present tense is “goes”."
+  },
+  {
+    "id": "apt-12",
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "If 3 workers complete a task in 12 days, how many days will 6 workers take?",
+    "options": ["6", "8", "4", "12"],
+    "correctAnswer": 0,
+    "explanation": "Doubling workers halves the time."
+  },
+  {
+    "id": "apt-13",
+    "category": "Logical Reasoning",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "SCD, TEF, UGH, ____, WKL",
+    "options": ["VIJ", "UJI", "CMN", "IJT"],
+    "correctAnswer": 0,
+    "explanation": "Letter patterns progress alphabetically: S,T,U,V,W and CD,EF,GH,IJ,KL."
+  },
+  {
+    "id": "apt-14",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "Choose the synonym for ADVERSITY.",
+    "options": ["Misfortune", "Prosperity", "Advantage", "Pleasure"],
+    "correctAnswer": 0,
+    "explanation": "Adversity means hardship or misfortune."
+  },
+  {
+    "id": "apt-15",
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "type": "MCQ",
+    "question": "The average age of 5 people is 24. If one person leaves, the average of the remaining 4 is 22. What is the age of the person who left?",
+    "options": ["32", "30", "28", "26"],
+    "correctAnswer": 0,
+    "explanation": "Total age = 120, remaining total = 88, difference = 32."
+  }
+  ],
+  "technicalQuestions": [
+    {
+      "id": "be-1",
+      "category": "Database Optimization",
+      "difficulty": "Hard",
+      "type": "Scenario",
+      "question": "A transaction records table contains 45 million rows. A query looking up specific candidate records by \"email\" and \"created_at\" is executing in 4.5 seconds. What is the correct database index strategy?",
+      "options": ["Create a composite index on (email, created_at) to allow index-only search and sorting.", "Add isolated single-column indexes on every table column individually.", "Convert the entire email column to a binary blob structure to decrease character comparison overhead.", "Disable indexing entirely and move search operations into standard backend Django code filters."],
+      "correctAnswer": 0,
+      "explanation": "A composite index covering both columns allows the relational planner to seek the exact email slice and instantly obtain sorted timestamps without full table scans."
+    },
+    {
+      "id": "be-2",
+      "category": "Auth Flow Protocols",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "In a secure OAuth 2.0 PKCE flow, what is the role of the \"Code Verifier\" and \"Code Challenge\"?",
+      "options": ["The client creates a random Code Verifier, sends its hash (Challenge) to get an Auth Code, then presents the original Verifier to get the Access Token.", "The database encrypts the user’s master password with the Challenge before returning JWT tokens.", "The mail server transmits the Verifier to the user’s mobile app using a secondary SMS verification route.", "It prevents the frontend from requesting any API assets unless the CORS origin is completely cleared."],
+      "correctAnswer": 0,
+      "explanation": "PKCE ensures that even if an interceptor captures the authorization code, they cannot exchange it for tokens without the original, unhashed code verifier."
+    },
+    {
+      "id": "be-3",
+      "category": "NodeJS Engine",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "What happens to the Node.js process when the Event Loop has no active callbacks, timers, or network listeners registered?",
+      "options": ["The process exits immediately with code 0.", "It goes into an infinite idle block waiting for CPU temperature changes.", "It restarts automatically by calling the main entry point file again.", "The runtime emits a warning that the machine must be rebooted."],
+      "correctAnswer": 0,
+      "explanation": "Node.js exits the main process automatically when the event loop is empty of active event queues, interval timers, and socket handles."
+    },
+    {
+      "id": "skill-python-1",
+      "category": "Python Concurrency",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "What is the primary purpose of the Global Interpreter Lock (GIL) in CPython?",
+      "options": ["To prevent multiple threads from executing Python bytecodes at once", "To speed up mathematical calculations", "To manage memory allocation in the heap", "To provide a sandbox for unsafe code"],
+      "correctAnswer": 0,
+      "explanation": "The GIL is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once."
+    },
+    {
+      "id": "skill-sql-1",
+      "category": "Database Optimization",
+      "difficulty": "Hard",
+      "type": "Scenario",
+      "question": "A table contains 45 million rows. A lookup by \"email\" is executing in 4.5 seconds. What is the correct database index strategy?",
+      "options": ["Create a composite index on (email, created_at)", "Add isolated single-column indexes on every column", "Convert column to binary blob", "Move filters into backend code"],
+      "correctAnswer": 0,
+      "explanation": "Indexing allow the relational planner to seek the exact email slice instantly."
+    },
+    {
+      "id": "gen-2",
+      "category": "Analysis Frameworks",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "In system diagnostics, what is the core purpose of a \"Root Cause Analysis\" (RCA) diagram?",
+      "options": ["To systematically trace past failure symptoms down to their primary structural failure source.", "To schedule annual payroll increments based on chronological performance review scores.", "To render three-dimensional vector graphics for user login modules.", "To estimate the exact server RAM requirements using random floating numbers."],
+      "correctAnswer": 0,
+      "explanation": "RCA is designed to pinpoint the underlying origin of a system failure, rather than simply addressing the visible symptoms."
+    },
+    {
+      "id": "gen-3",
+      "category": "Operational Risk",
+      "difficulty": "Medium",
+      "type": "Scenario",
+      "question": "A diagnostic process requires 99% accuracy. During high-throughput testing, a technician registers a 3% error rate on 200 items. To correct the overall cycle metric, what condition must the next batch meet?",
+      "options": ["The next 400 items must be processed with 100% error-free execution.", "The next batch must be run twice as fast to dilute the error timeline.", "The technician must immediately switch the testing machine to standby mode.", "The system should increase its error budget to 5% without alerting supervisors."],
+      "correctAnswer": 0,
+      "explanation": "200 items * 3% = 6 errors. To get a 1% overall error rate (99% accuracy) on total items, 6 / Total = 0.01 -> Total = 600 items. Hence, we need 400 more items with 0 errors."
+    },
+    {
+      "id": "gen-5",
+      "category": "System Performance",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "If latency increases by 200% but throughput drops by exactly 50%, what is the immediate relative pressure on the system queue length under steady incoming request rate?",
+      "options": ["The queue length will grow exponentially as items take longer to process and clear slower.", "The queue length decreases because throughput has dropped.", "The latency increases but is offset entirely by high network speeds.", "The request rate automatically drops to zero by server command."],
+      "correctAnswer": 0,
+      "explanation": "Longer latency (processing duration) combined with lower throughput creates a severe backlog, driving a steep increase in queue backlogs."
+    },
+    {
+      "id": "gen-9",
+      "category": "Analytical Competence",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "What statistical metric represents the dispersion of candidate test scores relative to the mean, allowing evaluators to see score variance?",
+      "options": ["Standard Deviation", "Median Frequency", "Geometric Mean", "Simple Range Difference"],
+      "correctAnswer": 0,
+      "explanation": "Standard deviation quantifies the amount of variation or dispersion of a set of values from its statistical mean."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "candidateName": "Hannah Ops",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
+    "projectTechnologies": ["AWS", "Kubernetes", "Docker", "Terraform"],
+    "certificationsList": ["AWS Certified Solutions Architect"],
+    "internships": "Cloud Platform Intern at InfraCorp"
+  },
+  "predictedDomain": "devops",
+  "verifiedSkills": ["AWS", "Docker", "Kubernetes", "Terraform"],
+  "aptitudeQuestions": "(see shared APTITUDE_QUESTIONS in src/data/questionBank.ts)"
+}

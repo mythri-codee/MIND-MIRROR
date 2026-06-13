@@ -1,0 +1,274 @@
+{
+  "profile": {
+    "candidateName": "Clara Front",
+    "skills": ["React", "TypeScript", "TailwindCSS", "Vite"],
+    "projectTechnologies": ["React", "Vite", "Tailwind CSS", "Redux"],
+    "certificationsList": ["Frontend Web Development Certificate"],
+    "internships": "Frontend Intern at PixelWorks"
+  },
+  "predictedDomain": "frontend",
+  "aptitudeQuestions": [
+    {
+      "id": "apt-1",
+      "category": "Numerical Ability",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "If 20% of a number is 120, then what is 120% of that number?",
+      "options": ["480", "720", "600", "360"],
+      "correctAnswer": 1,
+      "explanation": "20% = 120, so 100% = 600 and 120% = 720."
+    },
+    {
+      "id": "apt-2",
+      "category": "Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "Logical",
+      "question": "If no competent candidate fails validation, which statement must be true?",
+      "options": ["If a candidate fails validation, they are not competent", "If a candidate passes, they are an expert", "Every non-competent candidate fails", "Passing is random"],
+      "correctAnswer": 0,
+      "explanation": "This is the contrapositive of the original statement."
+    },
+    {
+      "id": "apt-3",
+      "category": "Verbal Ability",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "Choose the synonym of ADAPT.",
+      "options": ["Adjust", "Reject", "Ignore", "Delay"],
+      "correctAnswer": 0,
+      "explanation": "Adapt means to adjust to new conditions."
+    },
+    {
+      "id": "apt-4",
+      "category": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "The average of 3, 6, 9, 12 and 15 is:",
+      "options": ["9", "8", "10", "12"],
+      "correctAnswer": 0,
+      "explanation": "Sum is 45 and average is 45/5 = 9."
+    },
+    {
+      "id": "apt-5",
+      "category": "Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "options": ["42", "36", "40", "44"],
+      "correctAnswer": 0,
+      "explanation": "Pattern is n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6, so 6×7 = 42."
+    },
+    {
+      "id": "apt-6",
+      "category": "Verbal Ability",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Choose the opposite of TRANSPARENT.",
+      "options": ["Opaque", "Clear", "Visible", "Shiny"],
+      "correctAnswer": 0,
+      "explanation": "Opaque is the opposite of transparent."
+    },
+    {
+      "id": "apt-7",
+      "category": "Quantitative Aptitude",
+      "difficulty": "Hard",
+      "type": "MCQ",
+      "question": "A sum amounts to 815 in 3 years and 854 in 4 years at simple interest. Find the principal.",
+      "options": ["698", "650", "720", "780"],
+      "correctAnswer": 0,
+      "explanation": "One year interest = 39, so principal = 815 - 117 = 698."
+    },
+    {
+      "id": "apt-8",
+      "category": "Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Which one is the odd one out?",
+      "options": ["January", "May", "July", "November"],
+      "correctAnswer": 3,
+      "explanation": "November has 30 days; the others have 31."
+    },
+    {
+      "id": "apt-9",
+      "category": "Numerical Ability",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "If a person walks 600m in 5 minutes, what is the speed in km/hr?",
+      "options": ["7.2", "6.5", "8.0", "5.4"],
+      "correctAnswer": 0,
+      "explanation": "600m/300s = 2 m/s = 7.2 km/hr."
+    },
+    {
+      "id": "apt-10",
+      "category": "Logical Reasoning",
+      "difficulty": "Hard",
+      "type": "MCQ",
+      "question": "Pointing to a photo, a man says: “That man's father is my father's son.” Whose photo is it?",
+      "options": ["His son", "His father", "His brother", "His nephew"],
+      "correctAnswer": 0,
+      "explanation": "My father's son = myself, so the man is his son."
+    },
+    {
+      "id": "apt-11",
+      "category": "Verbal Ability",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "Complete the sentence: She _____ to the office every day.",
+      "options": ["goes", "go", "going", "gone"],
+      "correctAnswer": 0,
+      "explanation": "Third person singular present tense is “goes”."
+    },
+    {
+      "id": "apt-12",
+      "category": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "If 3 workers complete a task in 12 days, how many days will 6 workers take?",
+      "options": ["6", "8", "4", "12"],
+      "correctAnswer": 0,
+      "explanation": "Doubling workers halves the time."
+    },
+    {
+      "id": "apt-13",
+      "category": "Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "SCD, TEF, UGH, ____, WKL",
+      "options": ["VIJ", "UJI", "CMN", "IJT"],
+      "correctAnswer": 0,
+      "explanation": "Letter patterns progress alphabetically: S,T,U,V,W and CD,EF,GH,IJ,KL."
+    },
+    {
+      "id": "apt-14",
+      "category": "Verbal Ability",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Choose the synonym for ADVERSITY.",
+      "options": ["Misfortune", "Prosperity", "Advantage", "Pleasure"],
+      "correctAnswer": 0,
+      "explanation": "Adversity means hardship or misfortune."
+    },
+    {
+      "id": "apt-15",
+      "category": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "The average age of 5 people is 24. If one person leaves, the average of the remaining 4 is 22. What is the age of the person who left?",
+      "options": ["32", "30", "28", "26"],
+      "correctAnswer": 0,
+      "explanation": "Total age = 120, remaining total = 88, difference = 32."
+    }
+  ],
+  "technicalQuestions": [
+    {
+      "id": "skill-react-1",
+      "category": "React Architecture",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Which Hook should you use to handle responsive side-effects that execute after all layout paint actions?",
+      "options": ["useEffect", "useLayoutEffect", "useInsertionEffect", "useMemo"],
+      "correctAnswer": 0,
+      "explanation": "useEffect runs asynchronously after the render paint is committed to the screen."
+    },
+    {
+      "id": "fe-4",
+      "category": "State Management",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "When using Context API, how can you prevent unnecessary re-renders of consuming subcomponents when only a slice of the context updates?",
+      "options": ["Memoize the context value object using useMemo and split distinct states into multiple contexts.", "Wrap the consumer components in a standard HTML section with absolute positioning.", "Call the React forceUpdate() hook directly from within the parent renderer.", "Use the useInsertionEffect hook to mutate state variables directly without triggering render."],
+      "correctAnswer": 0,
+      "explanation": "Splitting unrelated data slices into separate contexts, combined with memoized child trees, is the native React pattern to localize context updates."
+    },
+    {
+      "id": "fe-1",
+      "category": "React Component Life",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "Which Hook should you use to handle responsive side-effects that execute after all layout paint actions?",
+      "options": ["useEffect", "useLayoutEffect", "useInsertionEffect", "useMemo"],
+      "correctAnswer": 0,
+      "explanation": "useEffect runs asynchronously after the render paint is committed to the screen, which is ideal for most responsive side effects."
+    },
+    {
+      "id": "fe-6",
+      "category": "Vite & Bundling",
+      "difficulty": "Medium",
+      "type": "MCQ",
+      "question": "What mechanism does Vite utilize during development to deliver instantaneous module reloading compared to traditional bundlers?",
+      "options": ["Native ES Modules (ESM) over HTTP, letting the browser parse module relationships directly.", "Pre-rendering all components as raw web-assembly static binaries.", "Injecting custom iframe containers for every imported typescript file.", "Utilizing native Django REST templating internally to proxy style imports."],
+      "correctAnswer": 0,
+      "explanation": "Vite serves source code over native ESM, allowing browsers to perform HTTP requests for imports on demand, with lightning-fast dynamic recompiles via esbuild."
+    },
+    {
+      "id": "fe-3",
+      "category": "CSS Performance",
+      "difficulty": "Hard",
+      "type": "Scenario",
+      "question": "Your web dashboard features an animated glowing node layout with 500 nodes. Rendering is experiencing heavy layout thrashing on browser resize. What is the most effective CSS optimization?",
+      "options": ["Apply \"transform: translate3d(0,0,0)\" and \"will-change: transform\" to the moving nodes to delegate them to the GPU.", "Convert all Tailwind classes to raw absolute inline style calculations on every render.", "Replace all grid elements with flexible margins calculated via standard JavaScript requestAnimationFrame.", "Increase the transition-duration of all background colors to over 10 seconds to buffer the paint times."],
+      "correctAnswer": 0,
+      "explanation": "Using GPU layers via \"will-change\" or 3D transform matrices prevents browser layout cycles, relying purely on compositor passes."
+    },
+    {
+      "id": "fe-5",
+      "category": "Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "Logical",
+      "question": "An application loads list data in chunks of 20 items. If the viewport height allows exactly 22 items to be visible, what is the recursive outcome on an automated scroll listener that only triggers when bottom padding is less than 5px?",
+      "options": ["The scrolling triggers once, fetches the next 20 items, fills the space, and enters a stable state.", "The user remains stuck with 22 items forever as the bottom padding never reaches under 5px without active manual scrolling.", "The program immediately crashes with an out-of-memory exception.", "The layout falls back automatically to flex-wrap with horizontal pagination."],
+      "correctAnswer": 1,
+      "explanation": "If the items do not fill the viewport such that manual scroll travel is possible, the scroll event listener is never fired again to fetch more data."
+    },
+    {
+      "id": "skill-react-2",
+      "category": "React Performance",
+      "difficulty": "Hard",
+      "type": "Scenario",
+      "question": "A large metrics report page causes the browser main thread to lock up. How would you solve this to maintain 60 FPS responsiveness?",
+      "options": ["Implement windowing/virtualization", "Run React in a Web Worker", "Convert data to SVG icons", "Inject a recursive delay"],
+      "correctAnswer": 0,
+      "explanation": "DOM virtualization ensures that only the visible elements are mounted."
+    },
+    {
+      "id": "fe-7",
+      "category": "Performance",
+      "difficulty": "Hard",
+      "type": "Scenario",
+      "question": "A large metrics report page causes the browser main thread to lock up for 1.2 seconds when plotting 50,000 data rows. How would you solve this to maintain 60 FPS responsiveness?",
+      "options": ["Implement windowing/virtualization (e.g., react-window) to only render visible rows in the DOM.", "Run the entire React render loop inside a background HTML5 Web Worker.", "Convert all tabular data elements to localized SVG icons for faster paint times.", "Inject a hard recursive delay of 5ms between every single row in the array map."],
+      "correctAnswer": 0,
+      "explanation": "DOM virtualization ensures that only the ~20 visible elements are mounted in the browser layout, keeping the node count constant regardless of dataset size."
+    },
+    {
+      "id": "skill-excel-1",
+      "category": "Excel Basics",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "Which Excel function is used to calculate the total of a range of cells?",
+      "options": ["SUM", "COUNT", "AVERAGE", "CONCAT"],
+      "correctAnswer": 0,
+      "explanation": "The SUM function returns the sum of numeric values in a range."
+    },
+    {
+      "id": "skill-word-1",
+      "category": "Word Proficiency",
+      "difficulty": "Easy",
+      "type": "MCQ",
+      "question": "Which Word feature helps apply consistent formatting across headings in a document?",
+      "options": ["Styles", "Track Changes", "Page Breaks", "Comments"],
+      "correctAnswer": 0,
+      "explanation": "Styles allow consistent application of typography and formatting across headings and text."
+    },
+    {
+      "id": "gen-1",
+      "category": "Systemic Logical Reasoning",
+      "difficulty": "Medium",
+      "type": "Logical",
+      "question": "A critical workflow fails. System A sends data to B, which queues it for C. If B’s buffer limit is 1000 items and B receives 200 items/minute but C only reads 150 items/minute, how long does the team have to resolve the bottleneck before data is dropped?",
+      "options": ["20 minutes", "50 minutes", "10 minutes", "5 minutes"],
+      "correctAnswer": 0,
+      "explanation": "B accumulates 200 - 150 = 50 items per minute. With a 1000-item capacity limit, it takes 1000 / 50 = 20 minutes to completely saturate B’s buffer."
+    }
+  ]
+}

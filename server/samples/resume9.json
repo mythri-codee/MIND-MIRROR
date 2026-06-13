@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "candidateName": "Leo Stack",
+    "skills": ["React", "Node.js", "PostgreSQL", "Docker"],
+    "projectTechnologies": ["React", "Node.js", "PostgreSQL", "Docker"],
+    "certificationsList": ["Full Stack Web Developer Certificate"],
+    "internships": "Full Stack Intern at StackWorks"
+  },
+  "predictedDomain": "fullstack",
+  "verifiedSkills": ["React", "Node.js", "PostgreSQL", "Docker"],
+  "aptitudeQuestions": "(see shared APTITUDE_QUESTIONS in src/data/questionBank.ts)"
+}

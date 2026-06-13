@@ -1,0 +1,7 @@
+{
+  "candidateName": "Alice Example",
+  "skills": ["Python", "Pandas", "Machine Learning", "SQL"],
+  "projectTechnologies": ["scikit-learn", "pandas", "numpy"],
+  "certificationsList": ["Machine Learning Certification - Coursera"],
+  "internships": "Data Science Intern at Acme Corp"
+}

@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "candidateName": "Maya Neuro",
+    "skills": ["Neurology", "EEG Interpretation", "Cognitive Testing"],
+    "projectTechnologies": [],
+    "certificationsList": ["Clinical EEG Interpretation"],
+    "internships": "Neurology Intern at City Hospital"
+  },
+  "predictedDomain": "neurology",
+  "verifiedSkills": ["Neurology", "EEG Interpretation", "Cognitive Testing"],
+  "aptitudeQuestions": "(see shared APTITUDE_QUESTIONS in src/data/questionBank.ts)"
+}

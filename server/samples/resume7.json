@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "candidateName": "Isha Market",
+    "skills": ["Digital Marketing", "SEO", "Google Analytics"],
+    "projectTechnologies": ["Google Analytics", "Google Ads"],
+    "certificationsList": ["Google Analytics Individual Qualification"],
+    "internships": "Growth Marketing Intern at AdWave"
+  },
+  "predictedDomain": "marketing",
+  "verifiedSkills": ["Digital Marketing", "SEO", "Google Analytics"],
+  "aptitudeQuestions": "(see shared APTITUDE_QUESTIONS in src/data/questionBank.ts)"
+}

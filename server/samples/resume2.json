@@ -1,0 +1,7 @@
+{
+  "candidateName": "Bob Example",
+  "skills": ["React.js", "TypeScript", "CSS", "HTML"],
+  "projectTechnologies": ["Vite", "React", "Tailwind CSS"],
+  "certificationsList": ["Front-end Web Development Certificate"],
+  "internships": "Frontend Developer Intern at Beta LLC"
+}

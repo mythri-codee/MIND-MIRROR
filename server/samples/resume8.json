@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "candidateName": "Kavya Secure",
+    "skills": ["Network Security", "Penetration Testing", "Linux"],
+    "projectTechnologies": ["Kali", "Metasploit", "Wireshark"],
+    "certificationsList": ["CEH - Certified Ethical Hacker"],
+    "internships": "Security Analyst Intern at SafeNet"
+  },
+  "predictedDomain": "cybersecurity",
+  "verifiedSkills": ["Network Security", "Penetration Testing", "Linux"],
+  "aptitudeQuestions": "(see shared APTITUDE_QUESTIONS in src/data/questionBank.ts)"
+}
